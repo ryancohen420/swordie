@@ -21,7 +21,7 @@
 
   
 * **MS Client files and tools**
-* MapleStory Setup v176
+  * MapleStory Setup v176
 
 http://download2.nexon.net/Game/MapleStory/FullVersion/176/MSSetupv176.exe
 http://download2.nexon.net/Game/MapleStory/FullVersion/176/MSSetupv176.z01
@@ -31,5 +31,5 @@ http://download2.nexon.net/Game/MapleStory/FullVersion/176/MSSetupv176.z04
 http://download2.nexon.net/Game/MapleStory/FullVersion/176/MSSetupv176.z05
 http://download2.nexon.net/Game/MapleStory/FullVersion/176/MSSetupv176.z06
 
-WZ Dumper, Hamaichi
+  * WZ Dumper, Hamaichi
 https://drive.google.com/drive/folders/13uQNERv43PqPCbO9iz9Ltzug95IPfLsf
