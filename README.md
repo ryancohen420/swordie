@@ -21,7 +21,8 @@
 
   
 * **MS Client files and tools**
-MapleStory Setup v176
+* MapleStory Setup v176
+
 http://download2.nexon.net/Game/MapleStory/FullVersion/176/MSSetupv176.exe
 http://download2.nexon.net/Game/MapleStory/FullVersion/176/MSSetupv176.z01
 http://download2.nexon.net/Game/MapleStory/FullVersion/176/MSSetupv176.z02
